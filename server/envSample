@@ -1,0 +1,5 @@
+DB_DEV_URL=postgres://yourDBadmin:password@localhost:PORT/DBname_dev
+DB_TEST_URL=postgres://yourDBadmin:password@localhost:PORT/DBname_test
+DB_PRODUCTION_URL=postgres://yourDBadmin:password@localhost:PORT/DBname_production
+PORT=PORTinDIGITS
+SESSION_SECRET=SomeGibrishPhrase
